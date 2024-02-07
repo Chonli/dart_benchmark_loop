@@ -1,0 +1,47 @@
+forEach
+          total runs:      1 818   
+          total time:     2.0003  s
+         average run:     1.1000 ms
+         runs/second:     909.09   
+
+for
+          total runs:      1 818   
+          total time:     2.0006  s
+         average run:     1.1000 ms
+         runs/second:     909.09   
+
+forEach
+          total runs:      1 797   
+          total time:     2.0000  s
+         average run:     1.1120 ms
+         runs/second:     899.28   
+
+iterator
+          total runs:      1 731   
+          total time:     2.0002  s
+         average run:     1.1550 ms
+         runs/second:     865.80   
+
+map
+          total runs:        201   
+          total time:     2.0044  s
+         average run:      9.972 ms
+         runs/second:     100.28   
+
+reverseFor
+          total runs:      1 581   
+          total time:     2.0003  s
+         average run:     1.2650 ms
+         runs/second:     790.51   
+
+reverseWhile
+          total runs:      1 603   
+          total time:     2.0011  s
+         average run:     1.2480 ms
+         runs/second:     801.28   
+
+while
+          total runs:      1 805   
+          total time:     2.0005  s
+         average run:     1.1080 ms
+         runs/second:     902.53 
